@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZRc8gBTGeQ0Nsc4w2SDW450hSKza6mK+HFvOkB5vXeqw6PQqU7nT2HJ9+ZTl3r4HEd6+KmI54gjN4egL60MIOg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\faith.kilonzi\\OneDrive - Kenya Airways PLC\\Documents\\PPersonal\\C#Basics\\LearningCSharp\\DotNet5\\Start\\Program Flow\\Exceptions\\Exceptions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\faith.kilonzi\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\faith.kilonzi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\faith.kilonzi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\faith.kilonzi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
